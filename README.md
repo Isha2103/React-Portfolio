@@ -3,7 +3,8 @@ Made by using Reactjs.
 
 ## Instructions to run:-  
 
-1)Clone the repo.  
+1)Clone the repo and run the following command:
+```npm i```  
 
 2)Edit the resumeData.js file in src folder.
 
