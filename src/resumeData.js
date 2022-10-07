@@ -26,7 +26,12 @@ let resumeData = {
         "name":"twitter",
         "url":"https://twitter.com/",
         "className":"fa fa-twitter"
-      }
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/",
+        "className":"fa fa-instagram"
+      }  
       
     ],
   "aboutme":"Write few lines about yourself describing your current status, learning, positions and many more.",
